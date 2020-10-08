@@ -5,11 +5,11 @@ Projeto integrador baseado em RPBL - Real project based learning, metodologia á
 
 Situção problema: Cliente solicitou que a equipe desenvolvesse um site para produtos educacionais, com os seguintes requisitos:
 
-* cadastro de usuario
-* cadastro de conteúdo
-* carrinho de compras
+* Cadastro de usuario
+* Cadastro de conteúdo
+* Carrinho de compras
 * Interface para saldo de credito
-* relatório de vendas
+* Relatório de vendas
 
 # Competências à serem desenvolvidas no semestre
 
