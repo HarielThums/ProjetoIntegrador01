@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/HarielThums/pi01/master/pi01/logotipo/logo.png)
+![Alt text](relative/path/to/img.jpg?raw=true "https://github.com/HarielThums/pi01/blob/master/pi01/logotipo/logo.png?raw=true")
