@@ -40,7 +40,7 @@ PACER
 
 ## Gestão de projeto
 
-A gestão do projeto está sendo realizada atráves do planner. No link, , é possível visualizar os status do andamento, atualizado em 08/10/2020.
+A gestão do projeto está sendo realizada atráves do planner. No link, https://github.com/HarielThums/ProjetoIntegrador-01/tree/main/Planner%20-%20Gest%C3%A3o%20do%20Projeto, é possível visualizar os status do andamento, atualizado em 08/10/2020.
 
 ## Entregas ao cliente
 
