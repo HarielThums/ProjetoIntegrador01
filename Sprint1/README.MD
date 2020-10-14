@@ -1,4 +1,5 @@
 # Sprint 1.
+ * Objetivos do Sprint 1.
 
 - [ ] 1. Criação do conteúdo - Lógica da Programação
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
