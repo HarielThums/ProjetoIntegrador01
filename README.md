@@ -45,6 +45,6 @@ A gestão do projeto está sendo realizada atráves do planner. No link, [clique
 ## Entregas ao cliente
 
 - [x] Sprint 0 - 27/09/2020 | [Sprint 0.](https://github.com/HarielThums/ProjetoIntegrador-01/tree/main/Sprint0)
-- [ ] Sprint 1 - 17/10/2020 | 
+- [ ] Sprint 1 - 17/10/2020 | [Sprint 1.](https://github.com/HarielThums/ProjetoIntegrador-01/tree/main/Sprint1_)
 - [ ] Sprint 2 - 08/11/2020 | 
 - [ ] Sprint 3 - 29/11/2020 | 
