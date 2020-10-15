@@ -5,5 +5,5 @@
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
 - [ ] 3. Criação do conteúdo - Ingles
 - [x] 4. Alimentar o GitHub
-- [ ] 5. Dominio/Hospedagem - Terá que ser hospedado??
+- [ ] 5. Dominio/Hospedagem
 - [ ] 6. Ajustes no Protótipo
