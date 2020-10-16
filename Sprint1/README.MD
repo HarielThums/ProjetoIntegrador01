@@ -2,6 +2,8 @@
  * Objetivos do Sprint 1.
 
 - [ ] 1. Criação do conteúdo - Lógica da Programação
+   * [ ] Texto
+   * [ ] Vídeo 
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
 - [ ] 3. Criação do conteúdo - Ingles
 - [x] 4. Alimentar o GitHub
