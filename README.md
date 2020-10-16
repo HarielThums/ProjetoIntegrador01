@@ -32,7 +32,7 @@ PACER
 
 ## O que já esta funcionando?
 
-- [x] 1. Servidor local
+- [x] 1. Site em servidor local 
 - [x] 2. Bando de dados Local
 - [ ] 3. 
 - [ ] 4. 

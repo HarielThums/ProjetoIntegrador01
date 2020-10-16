@@ -10,7 +10,6 @@
 - [x] 7. Preparando ambiente para hospedagem local do Site
 - [x] 8. Banco de dados Local
 - [x] 9. Configurações iniciais do Site
-- [x] 10. Instalação dos Plugins no site
 
 # Conteúdos 
 
