@@ -3,7 +3,7 @@
 
 - [ ] 1. Criação do conteúdo - Lógica da Programação
    * [ ] Texto
-   * [ ] Vídeo 
+   * [x] Vídeo 
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
    * [ ] Texto
    * [ ] Vídeo 
