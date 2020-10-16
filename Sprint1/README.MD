@@ -5,7 +5,11 @@
    * [ ] Texto
    * [ ] Vídeo 
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
+   * [ ] Texto
+   * [ ] Vídeo 
 - [ ] 3. Criação do conteúdo - Ingles
+   * [ ] Texto
+   * [ ] Vídeo 
 - [x] 4. Alimentar o GitHub
 - [ ] 5. Dominio/Hospedagem
 - [ ] 6. Ajustes no Protótipo
