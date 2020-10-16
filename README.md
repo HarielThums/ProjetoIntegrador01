@@ -32,11 +32,11 @@ PACER
 
 ## O que já esta funcionando?
 
-- [ ] 1 - 
-- [ ] 2 - 
-- [ ] 3 - 
-- [ ] 4 - 
-- [ ] 5 - 
+- [x] 1. Servidor local
+- [x] 2. Bando de dados Local
+- [ ] 3. 
+- [ ] 4. 
+- [ ] 5. 
 
 ## Gestão de projeto
 

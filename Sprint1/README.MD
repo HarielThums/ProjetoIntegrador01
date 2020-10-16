@@ -10,9 +10,9 @@
 - [x] 7. Preparando ambiente para hospedagem local do Site
 - [x] 8. Banco de dados Local
 - [x] 9. Configurações iniciais do Site
-- [x] 10. Instalação dos Plugins
+- [x] 10. Instalação dos Plugins no site
 
 # Conteúdos 
 
 * Algoritmos E Lógica da Programação
- * Para acessar a Aula 1, [Clique aqui.]()
+   * Para acessar a Aula 1, [Clique aqui.]()
