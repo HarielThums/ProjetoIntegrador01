@@ -13,7 +13,7 @@
    * [x] Texto
    
 - [x] 5. Alimentar o GitHub
-- [ ] 6. Ajustes no Protótipo
+- [x] 6. Ajustes no Protótipo (Não foram solicitadas alterações pelo cliente)
 - [x] 7. Preparando ambiente para hospedagem local do Site
 - [x] 8. Banco de dados Local
 - [x] 9. Configurações iniciais do Site
