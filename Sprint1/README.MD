@@ -1,20 +1,20 @@
 # Sprint 1.
  * Objetivos do Sprint 1.
-
-- [x] 1. Criação do conteúdo - Lógica da Programação
+- [ ] 1. Burndown E Backlog
+- [x] 2. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
-- [x] 2. Criação do conteúdo - Laboratorio de Hardware
+- [x] 3. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
    
-- [x] 3. Criação do conteúdo - Inglês
+- [x] 4. Criação do conteúdo - Inglês
    * [x] Texto
    
-- [x] 4. Alimentar o GitHub
-- [ ] 5. Ajustes no Protótipo
-- [x] 6. Preparando ambiente para hospedagem local do Site
-- [x] 7. Banco de dados Local
-- [x] 8. Configurações iniciais do Site
+- [x] 5. Alimentar o GitHub
+- [ ] 6. Ajustes no Protótipo
+- [x] 7. Preparando ambiente para hospedagem local do Site
+- [x] 8. Banco de dados Local
+- [x] 9. Configurações iniciais do Site
 
 # Conteúdos 
 
