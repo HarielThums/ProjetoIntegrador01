@@ -11,6 +11,7 @@
    
 - [x] 4. Criação do conteúdo - Inglês
    * [x] Texto
+   * [x] Vídeo
    
 - [x] 5. Alimentar o GitHub
 - [x] 6. Ajustes no Protótipo (Não foram solicitadas alterações pelo cliente)
