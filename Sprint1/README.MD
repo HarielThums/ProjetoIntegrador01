@@ -7,7 +7,7 @@
 - [x] 2. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
    
-- [x] 3. Criação do conteúdo - Ingles
+- [x] 3. Criação do conteúdo - Inglês
    * [x] Texto
    
 - [x] 4. Alimentar o GitHub
@@ -23,7 +23,7 @@
    * Para baixar a Aula 1, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%201.rar)
    * Para baixar a Aula 2, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%202.rar)
 
-* Ingles 
+* Inglês 
    * Para baixar a Aula em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Ingles/Ingles.pdf)
 
 * Laboratório de Hardware
