@@ -33,4 +33,4 @@
 * Laboratório de Hardware
    * Para baixar a Aula 1 em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Lab%20de%20Hardware/1.Laboratorio%20de%20Hardware.docx)
    * Para baixar a Aula 2 em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Lab%20de%20Hardware/2.Laboratorio%20de%20Hardware.docx)
-   * Para baixar a Aula 1 em Vídeo, [Clique aqui.]()
+   * Para baixar a Aula 1 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Lab%20de%20Hardware/aula%201.rar)
