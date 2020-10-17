@@ -4,10 +4,10 @@
 - [x] 1. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
-- [ ] 2. Criação do conteúdo - Laboratorio de Hardware
+- [x] 2. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
    
-- [ ] 3. Criação do conteúdo - Ingles
+- [x] 3. Criação do conteúdo - Ingles
    * [x] Texto
    
 - [x] 4. Alimentar o GitHub
