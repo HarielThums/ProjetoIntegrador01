@@ -1,14 +1,14 @@
 # Sprint 1.
  * Objetivos do Sprint 1.
 - [x] 1. Burndown E Backlog
-   - [x] Burndown, [Clique aqui](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Burndown%20e%20Backlog/Burndown.xlsx)
+   - [x] Burndown, [Clique aqui]()
    - [ ] Backlog, [Clique aqui]()
 - [x] 2. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
 - [x] 3. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
-   
+   * [x] Vídeo
 - [x] 4. Criação do conteúdo - Inglês
    * [x] Texto
    * [x] Vídeo
@@ -33,3 +33,4 @@
 * Laboratório de Hardware
    * Para baixar a Aula 1 em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Lab%20de%20Hardware/1.Laboratorio%20de%20Hardware.docx)
    * Para baixar a Aula 2 em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Lab%20de%20Hardware/2.Laboratorio%20de%20Hardware.docx)
+   * Para baixar a Aula 1 em Vídeo, [Clique aqui.]()
