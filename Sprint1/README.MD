@@ -1,6 +1,8 @@
 # Sprint 1.
  * Objetivos do Sprint 1.
-- [ ] 1. Burndown E Backlog
+- [x] 1. Burndown E Backlog
+   - [x] Burndown
+   - [ ] Backlog
 - [x] 2. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
