@@ -23,7 +23,7 @@
 
 * Algoritmos E Lógica da Programação
    * Para baixar a Aula 1 em PDF,  [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.docx)
-   * Para baixar a Aula 2 em PDF,  [Clique aqui.]()
+   * Para baixar a Aula 2 em PDF,  [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/Algoritmos%20e%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o02.docx)
    * Para baixar a Aula 1 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%201.rar)
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%202.rar)
 
