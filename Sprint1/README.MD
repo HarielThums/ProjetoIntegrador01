@@ -6,10 +6,10 @@
    * [x] Vídeo
 - [ ] 2. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
-   * [ ] Vídeo 
+   
 - [ ] 3. Criação do conteúdo - Ingles
    * [x] Texto
-   * [ ] Vídeo 
+   
 - [x] 4. Alimentar o GitHub
 - [ ] 5. Ajustes no Protótipo
 - [x] 6. Preparando ambiente para hospedagem local do Site
@@ -19,9 +19,9 @@
 # Conteúdos 
 
 * Algoritmos E Lógica da Programação
-   * Para baixar a Aula em PDF,  [Clique aqui.]()
-   * Para baixar a Aula 1, [Clique aqui.]()
-   * Para baixar a Aula 2, [Clique aqui.]()
+   * Para baixar a Aula em PDF,  [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.docx)
+   * Para baixar a Aula 1, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%201.rar)
+   * Para baixar a Aula 2, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Algoritmos%20e%20l%C3%B3gica%20da%20programa%C3%A7%C3%A3o/aula%202.rar)
 
 * Ingles 
    * Para baixar a Aula em PDF, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint1/Conte%C3%BAdos/Ingles/Ingles.pdf)
