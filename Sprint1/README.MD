@@ -1,8 +1,8 @@
 # Sprint 1.
  * Objetivos do Sprint 1.
 - [x] 1. Burndown E Backlog
-   - [x] Burndown, [Clique aqui]()
-   - [ ] Backlog, [Clique aqui]()
+   - [x] Burndown, [Clique aqui](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Burndown%20e%20Backlog/Burndown-Sprint01xlsx.xlsx)
+   - [x] Backlog, [Clique aqui](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Burndown%20e%20Backlog/BACKLOG.xlsx)
 - [x] 2. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
@@ -18,6 +18,9 @@
 - [x] 7. Preparando ambiente para hospedagem local do Site
 - [x] 8. Banco de dados Local
 - [x] 9. Configurações iniciais do Site
+- [x] 10. Integração novos colaboradores na equipe / reestruturação equipe
+- [x] 11. Estratégia e estudo de ferramentas para criação de site ou continuar com html inicial
+- [x] 12. Reestruturação de levantamento de requisitos para plano de negócio
 
 # Conteúdos 
 
