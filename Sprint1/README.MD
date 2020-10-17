@@ -6,10 +6,10 @@
 - [x] 2. Criação do conteúdo - Lógica da Programação
    * [x] Texto
    * [x] Vídeo
-- [x] 3. Criação do conteúdo - Laboratorio de Hardware
+- [x] 3. Criação do conteúdo - Inglês
    * [x] Texto
    * [x] Vídeo
-- [x] 4. Criação do conteúdo - Inglês
+- [x] 4. Criação do conteúdo - Laboratorio de Hardware
    * [x] Texto
    * [x] Vídeo
    
