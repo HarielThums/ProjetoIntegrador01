@@ -27,7 +27,7 @@
 - [x] 9. Configurações iniciais do Site
 - [x] 10. Integração novos colaboradores na equipe / reestruturação equipe
 - [x] 11. Estratégia e estudo de ferramentas para criação de site ou continuar com html inicial
-- [x] 12. Reestruturação de levantamento de requisitos para plano de negócio
+- [x] 12. Reestruturação de levantamento de requisitos para plano de negócio - [Novo plano Atualizado](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint0/Plano%20de%20Neg%C3%B3cio/Plano_de_Negocio.pdf)
 
 # Conteúdos 
 
