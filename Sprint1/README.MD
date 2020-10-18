@@ -1,8 +1,7 @@
 # Sprint 1.
  * Objetivos do Sprint 1.
 
-__*Breve apresentação do Sprint 01*__ 
-   * [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint1/Apresenta%C3%A7%C3%A3o%20Breve%20-%20Sprint%2001.pdf)
+__*Breve apresentação do Sprint 01 -*__ [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint1/Apresenta%C3%A7%C3%A3o%20Breve%20-%20Sprint%2001.pdf)
 
 
 - [x] 1. Burndown E Backlog
