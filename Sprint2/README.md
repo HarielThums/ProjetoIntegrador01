@@ -1,9 +1,5 @@
 # Sprint 1.
  
-
- __*Breve apresentação do Sprint 01 -*__ [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint1/Apresenta%C3%A7%C3%A3o%20Breve%20-%20Sprint%2001.pdf)
-
- 
  
  * Objetivos do Sprint 1.
 
@@ -24,4 +20,4 @@
  Conteúdos 
 
 * Arquitetura e Organização de Computadores.
-   * Para baixar a Aula 1 em PDF,  [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint2/Conte%C3%BAdos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
+   * Para baixar a Aula 1 em PDF,  [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint2/Conte%C3%BAdos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
