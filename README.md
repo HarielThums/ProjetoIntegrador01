@@ -43,7 +43,7 @@ A gestão do projeto está sendo realizada atráves do planner. No link, [clique
 
 ## Burndown e Backlog
 
-
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Backlog.png)
 
 ## Entregas ao cliente
 
