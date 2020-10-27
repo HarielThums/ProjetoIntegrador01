@@ -47,7 +47,7 @@ A gestão do projeto está sendo realizada atráves do planner. No link, [clique
 
 ## Burndown
 
-
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown-Sprint01xlsx.pdf)
 
 ## Entregas ao cliente
 
