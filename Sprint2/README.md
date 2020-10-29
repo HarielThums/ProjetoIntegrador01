@@ -23,7 +23,8 @@
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
 
 * Matemática Discreta.
-   * Para visualizar a Aula 1 em PDF,  [Clique aqui.]()
+   * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matem%C3%A1tica%20Discreta01.pdf)
+   * Para visualizar a Aula 2 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matem%C3%A1tica%20Discreta02.pdf)
 
 * Português.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Portugu%C3%AAs/Portugu%C3%AAs.docx.pdf)
