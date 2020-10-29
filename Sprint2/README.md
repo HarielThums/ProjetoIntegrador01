@@ -15,7 +15,10 @@
 - [ ] 4. Criação do conteúdo - Português
    * [x] Texto
    * [ ] Vídeo
-- [ ] 5.
+- [x] 5. Tela de Login no Site.
+- [x] 6. Area de recuperação de senha no Site.
+- [x] 7. Carrinho de compras no Site.
+- [ ] 8. Cadastro de novo usuário no Site.
 
  Conteúdos 
 
