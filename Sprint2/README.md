@@ -15,10 +15,13 @@
 - [ ] 4. Criação do conteúdo - Português
    * [x] Texto
    * [ ] Vídeo
-- [x] 5. Tela de Login no Site.
-- [x] 6. Area de recuperação de senha no Site.
-- [x] 7. Carrinho de compras no Site.
-- [ ] 8. Cadastro de novo usuário no Site.
+- [x] 5. Tela de Login
+- [x] 6. Area de recuperação de senha
+- [x] 7. Carrinho de compras
+- [x] 8. Cadastro de novo usuário
+- [x] 9. Pagina para Finalizar Compra
+- [x] 10.
+- [ ] 11.
 
  Conteúdos 
 
