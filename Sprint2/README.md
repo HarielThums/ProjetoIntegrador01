@@ -29,6 +29,8 @@
 - [x] 16.Área do Aluno (Downloads)
 
 * Demonstrativo Site.
+   * [Páginas do administrador](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)
+   * [Video Demonstrativo](https://www.youtube.com/embed/G75YrICEaOg)
 
 [![Veja aqui.](https://i.imgur.com/Mhzeb1E.png)](https://www.youtube.com/embed/G75YrICEaOg)
 
