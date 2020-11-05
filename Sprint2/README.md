@@ -30,7 +30,7 @@
 
 * Demonstrativo Site.
 
-[![Veja aqui](https://imgur.com/a/pfsRCm0)](https://www.youtube.com/embed/G75YrICEaOg)
+[![Veja aqui.](https://imgur.com/a/pfsRCm0)](https://www.youtube.com/embed/G75YrICEaOg)
 
  Conteúdos 
 
