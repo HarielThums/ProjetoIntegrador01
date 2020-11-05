@@ -16,12 +16,17 @@
    * [x] Texto
    * [ ] Vídeo
 - [x] 5. Tela de Login
-- [x] 6. Area de recuperação de senha
+- [x] 6. Área de recuperação de senha
 - [x] 7. Carrinho de compras
 - [x] 8. Cadastro de novo usuário
-- [x] 9. Pagina para Finalizar Compra
-- [x] 10.
-- [ ] 11.
+- [x] 9. Página para Finalizar Compra
+- [x] 10.Configurações de Segurança
+- [x] 11.Área da Loja
+- [x] 12.Estudo do Plugin WooCommerce
+- [x] 13.Área para adicionar novos produtos
+- [x] 14.Página do ADM
+- [x] 15.Relatório de Vendas
+- [x] 16.Área do Aluno (Downloads)
 
  Conteúdos 
 

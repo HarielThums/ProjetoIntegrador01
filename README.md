@@ -35,6 +35,20 @@ PACER
 - [x] 1. Banco de dados Local
 - [x] 2. Site em servidor local
 - [x] 3. Configurações iniciais
+- [x] 4. Home
+- [x] 5. Cadastro Novo usuário
+- [x] 6. Login
+- [x] 7. Catálogo
+- [x] 8. Carrinho de compras
+- [x] 9. Área para Download do material
+- [x] 10.Finalização da Compra (métodos de pagamentos)
+- [x] 11.Cadastro de novos conteúdos (ADM)
+- [x] 12.Relatório de Vendas (ADM)
+- [x] 13.Gerenciamento dos Usuários (ADM)
+- [ ] 14.
+- [ ] 15.
+
+
 
 
 ## Gestão de projeto
