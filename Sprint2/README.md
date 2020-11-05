@@ -30,10 +30,10 @@
 
 * Demonstrativo Site.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G75YrICEaOg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Veja aqui](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/G75YrICEaOg)
 
  Conteúdos 
+
 
 * Arquitetura e Organização de Computadores.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
