@@ -30,7 +30,7 @@
 
 * Demonstrativo Site.
 
-[![Veja aqui.](https://i.imgur.com/JrP3ERI.png)](https://www.youtube.com/watch?v=G75YrICEaOg&ab_channel=Ditz)
+[![Veja aqui.](https://i.imgur.com/Mhzeb1E.png)](https://www.youtube.com/embed/G75YrICEaOg)
 
  Conteúdos 
 
