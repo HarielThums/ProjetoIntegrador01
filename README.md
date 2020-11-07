@@ -45,9 +45,12 @@ PACER
 - [x] 11.Cadastro de novos conteúdos (ADM)
 - [x] 12.Relatório de Vendas (ADM)
 - [x] 13.Gerenciamento dos Usuários (ADM)
-- [ ] 14.
-- [ ] 15.
 
+* Demonstrativo Site referente ao [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
+   * [Páginas do administrador - Site](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)
+   * [Vídeo Demonstrativo - Site](https://www.youtube.com/embed/G75YrICEaOg)
+
+[![Veja aqui.](https://i.imgur.com/Mhzeb1E.png)](https://www.youtube.com/embed/G75YrICEaOg)
 
 
 
