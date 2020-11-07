@@ -6,9 +6,9 @@
 - [ ] 1. Burndown E Backlog
    - [ ] Burndown, [Clique aqui]()
    - [ ] Backlog, [Clique aqui]()
-- [ ] 2. Criação do conteúdo - Arquitetura e Organização de Computadores
+- [x] 2. Criação do conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
-   * [ ] Vídeo
+   * [x] Vídeo
 - [ ] 3. Criação do conteúdo - Matemática Disreta
    * [x] Texto
    * [ ] Vídeo
@@ -39,6 +39,7 @@
 
 * Arquitetura e Organização de Computadores.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
+   * Para baixar a Aula 1 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint2/Conte%C3%BAdos/AOC/AOC%20-%20AULA%201.rar)
 
 * Matemática Discreta.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matem%C3%A1tica%20Discreta01.pdf)
