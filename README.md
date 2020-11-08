@@ -62,8 +62,9 @@ PACER
 
 * Burndown Sprint_2
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.1.jpeg)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
+
 
 ## Entregas ao cliente
 
