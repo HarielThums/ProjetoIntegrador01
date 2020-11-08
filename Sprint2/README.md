@@ -4,8 +4,8 @@
  * Objetivos do Sprint 2.
 
 - [x] 1. Burndown E Backlog
-   - [x] Burndown, [Clique aqui]()
-   - [x] Backlog, [Clique aqui]()
+   - [x] Burndown, [Clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Burndown%20e%20Backlog)
+   - [x] Backlog, [Clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Burndown%20e%20Backlog)
 - [x] 2. Criação do conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
    * [x] Vídeo
