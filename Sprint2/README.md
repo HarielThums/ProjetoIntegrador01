@@ -12,7 +12,7 @@
 - [x] 3. Criação do conteúdo - Matemática Disreta
    * [x] Texto
    * [x] Vídeo
-- [ ] 4. Criação do conteúdo - Português
+- [x] 4. Criação do conteúdo - Português
    * [x] Texto
    * [ ] Vídeo
 - [x] 5. Tela de Login
@@ -36,6 +36,16 @@
 
  Conteúdos 
 
+## Gestão do Sprint
+
+   * Backlog Sprint_2
+
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_2.1.jpeg)
+
+   * Burndown Sprint_2
+
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.1.jpeg)
 
 * Arquitetura e Organização de Computadores.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/AOC/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
@@ -44,6 +54,7 @@
 * Matemática Discreta.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matem%C3%A1tica%20Discreta01.pdf)
    * Para visualizar a Aula 2 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matem%C3%A1tica%20Discreta02.pdf)
+   * Para baixar a Aula 1 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint2/Conte%C3%BAdos/Matem%C3%A1tica%20Discreta/Matematica%20Discreta.rar)
 
 * Português.
    * Para visualizar a Aula 1 em PDF,  [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint2/Conte%C3%BAdos/Portugu%C3%AAs/Portugu%C3%AAs.docx.pdf)

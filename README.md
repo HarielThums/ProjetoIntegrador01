@@ -56,15 +56,14 @@ PACER
 
 ## Gestão de projeto
 
-A gestão do projeto está sendo realizada atráves do planner. No link, [clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Planner%20-%20Gest%C3%A3o%20do%20Projeto), e será possível visualizar os status do andamento, atualizado em 08/10/2020.
+   * Backlog Sprint_2
 
-## Backlog
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_2.jpeg)
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Backlog.png)
+   * Burndown Sprint_2
 
-## Burndown
-
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown.png)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.1.jpeg)
 
 ## Entregas ao cliente
 
