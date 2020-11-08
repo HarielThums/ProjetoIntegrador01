@@ -3,15 +3,15 @@
  
  * Objetivos do Sprint 2.
 
-- [ ] 1. Burndown E Backlog
-   - [ ] Burndown, [Clique aqui]()
-   - [ ] Backlog, [Clique aqui]()
+- [x] 1. Burndown E Backlog
+   - [x] Burndown, [Clique aqui]()
+   - [x] Backlog, [Clique aqui]()
 - [x] 2. Criação do conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
    * [x] Vídeo
-- [ ] 3. Criação do conteúdo - Matemática Disreta
+- [x] 3. Criação do conteúdo - Matemática Disreta
    * [x] Texto
-   * [ ] Vídeo
+   * [x] Vídeo
 - [ ] 4. Criação do conteúdo - Português
    * [x] Texto
    * [ ] Vídeo
