@@ -56,11 +56,11 @@ PACER
 
 ## Gestão de projeto
 
-   * Backlog Sprint_2
+* Backlog Sprint_2
 
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_2.jpeg)
 
-   * Burndown Sprint_2
+* Burndown Sprint_2
 
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.1.jpeg)
