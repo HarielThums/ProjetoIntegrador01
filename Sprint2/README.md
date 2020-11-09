@@ -9,7 +9,7 @@
 - [x] 2. Criação do conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
    * [x] Vídeo
-- [x] 3. Criação do conteúdo - Matemática Disreta
+- [x] 3. Criação do conteúdo - Matemática Discreta
    * [x] Texto
    * [x] Vídeo
 - [x] 4. Criação do conteúdo - Português
