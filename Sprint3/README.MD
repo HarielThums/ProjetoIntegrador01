@@ -5,10 +5,7 @@
 - [ ] 1. Burndown E Backlog
    - [ ] Burndown, [Clique aqui]()
    - [ ] Backlog, [Clique aqui]()
-
-   
-- [ ] 1. Alimentar o GitHub
-- [ ] 2.
+- [ ] 2. Alimentar o GitHub
 - [ ] 3.
 - [ ] 4.
 - [ ] 5.
@@ -20,11 +17,11 @@
 
 ## Gestão do Sprint.
 
-* Backlog Sprint_
+* Backlog Sprint_3
 
 ![alt text]()
 
-* Burndown Sprint_
+* Burndown Sprint_3
 
 ![alt text]()
 ![alt text]()
