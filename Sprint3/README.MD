@@ -5,11 +5,11 @@
 - [ ] 1. Burndown E Backlog
    - [ ] Burndown, [Clique aqui]()
    - [ ] Backlog, [Clique aqui]()
-- [ ] 2. Alimentar o GitHub
-- [ ] 3.
-- [ ] 4.
-- [ ] 5.
-- [ ] 6.
+- [x] 2. Alimentar o GitHub
+- [x] 3.Carteira Digital
+- [x] 4.Compra de crédito para Carteira Digital
+- [ ] 5.Página de Contato
+- [ ] 6.Politica de Privacidade
 - [ ] 7.
 - [ ] 8.
 - [ ] 9.
