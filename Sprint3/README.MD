@@ -14,6 +14,8 @@
 - [ ] 8.
 - [ ] 9.
 - [ ] 10.
+[x] 3. Criação de conteúdo - Matemática Discreta
+   * [x] Vídeo
 
 ## Gestão do Sprint.
 
@@ -27,3 +29,8 @@
 ![alt text]()
 
 # Projeto Final Site.
+
+## Conteúdos
+
+* Matemática Discreta.
+   * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Matematica%20Discreta%20Vol.2.rar)
