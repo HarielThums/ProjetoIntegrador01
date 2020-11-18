@@ -14,7 +14,7 @@
 - [ ] 8.
 - [ ] 9.
 - [ ] 10.
-[x] 3. Criação de conteúdo - Matemática Discreta
+- [x] . Criação de conteúdo - Matemática Discreta
    * [x] Vídeo
 
 ## Gestão do Sprint.
