@@ -1,6 +1,6 @@
-# Sprint 1.
+# Sprint 3.
 
- * Objetivos do Sprint 1.
+ * Objetivos do Sprint 3.
 
 - [ ] 1. Burndown E Backlog
    - [ ] Burndown, [Clique aqui]()
@@ -37,4 +37,4 @@
 * Matemática Discreta.
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Matematica%20Discreta%20Vol.2.rar)
 * AOC
-   * Para visualizar Aula 2 em PDF, [Clique aqui.]()
+   * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores%20Vol.2.pdf)
