@@ -22,13 +22,13 @@ PACER
 
 # Equipe 3 - Elite:
 
-* ALINE CRISTINA PEREIRA TROFINO
-* HARIEL THUMS RIGELLI
-* JONATHAN GABRIEL DE ASSIS
-* LAROY BERSOT RIBEIRO DO PRADO
-* LUIZ FELIPE DE ALMEIDA CAMARGO
-* RITA DE CASSIA FERREIRA
-* RODRIGO ARTUR DA SILVA PEREIRA
+* ALINE CRISTINA PEREIRA TROFINO, [Linkedin]()
+* HARIEL THUMS RIGELLI, [Linkedin](https://www.linkedin.com/in/hariel-thums-953578185)
+* JONATHAN GABRIEL DE ASSIS, [Linkedin]()
+* LAROY BERSOT RIBEIRO DO PRADO, [Linkedin]()
+* LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin]()
+* RITA DE CASSIA FERREIRA, [Linkedin]()
+* RODRIGO ARTUR DA SILVA PEREIRA, [Linkedin]()
 
 ## O que já esta funcionando?
 
@@ -45,6 +45,10 @@ PACER
 - [x] 11.Cadastro de novos conteúdos (ADM)
 - [x] 12.Relatório de Vendas (ADM)
 - [x] 13.Gerenciamento dos Usuários (ADM)
+- [x] 14.Carteira Digital
+- [x] 15.Página de Contato
+- [x] 16.Politica de Privacidade
+- [x] 17.
 
 * Demonstrativo Site referente ao [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
    * [Páginas do administrador - Site](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)

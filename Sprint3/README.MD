@@ -8,8 +8,8 @@
 - [x] 2. Alimentar o GitHub
 - [x] 3.Carteira Digital
 - [x] 4.Compra de crédito para Carteira Digital
-- [ ] 5.Página de Contato
-- [ ] 6.Politica de Privacidade
+- [x] 5.Página de Contato
+- [x] 6.Politica de Privacidade
 - [x] 7.Criação dos produtos no site
 - [ ] 8.
 - [ ] 9.
@@ -18,6 +18,9 @@
    * [x] Vídeo
 - [x] . Criação de conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
+- [ ] . Criação do conteúdo - Português
+   * [ ] Texto
+   * [ ] Vídeo
 
 ## Gestão do Sprint.
 
@@ -36,5 +39,7 @@
 
 * Matemática Discreta.
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Matematica%20Discreta%20Vol.2.rar)
+   * Para baixar a Aula 3 em Vídeo, [Clique aqui.]()
+
 * AOC
    * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores%20Vol.2.pdf)
