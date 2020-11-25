@@ -22,13 +22,13 @@ PACER
 
 # Equipe 3 - Elite:
 
-* ALINE CRISTINA PEREIRA TROFINO, [Linkedin]()
-* HARIEL THUMS RIGELLI, [Linkedin](https://www.linkedin.com/in/hariel-thums-953578185)
-* JONATHAN GABRIEL DE ASSIS, [Linkedin]()
-* LAROY BERSOT RIBEIRO DO PRADO, [Linkedin]()
-* LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin]()
-* RITA DE CASSIA FERREIRA, [Linkedin]()
-* RODRIGO ARTUR DA SILVA PEREIRA, [Linkedin]()
+* ALINE CRISTINA PEREIRA TROFINO, [Linkedin, clique aqui](https://www.linkedin.com/in/aline-trofino-9704b523/)
+* HARIEL THUMS RIGELLI, [Linkedin, clique aqui](https://www.linkedin.com/in/hariel-thums-953578185)
+* JONATHAN GABRIEL DE ASSIS, [Linkedin, clique aqui]()
+* LAROY BERSOT RIBEIRO DO PRADO, [Linkedin, clique aqui](https://www.linkedin.com/in/laroy-bersot-ribeiro-do-prado-a278b0185/)
+* LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin, clique aqui]()
+* RITA DE CASSIA FERREIRA, [Linkedin, clique aqui]()
+* RODRIGO ARTUR DA SILVA PEREIRA, [Linkedin, clique aqui]()
 
 ## O que já esta funcionando?
 
@@ -54,20 +54,22 @@ PACER
    * [Páginas do administrador - Site](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)
    * [Vídeo Demonstrativo - Site (Sprint 2)](https://www.youtube.com/embed/G75YrICEaOg)
 
-[![Veja aqui.](https://i.imgur.com/Mhzeb1E.png)](https://www.youtube.com/embed/G75YrICEaOg)
+# Site entrega Final
+
+* [Site Sprint 3 ]()
 
 
 
 ## Gestão de projeto
 
-* Backlog Sprint_2
+* Backlog Sprint_3
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_2.jpeg)
+![alt text]()
 
-* Burndown Sprint_2
+* Burndown Sprint_3
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.1.jpeg)
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_2.jpeg)
+![alt text]()
+![alt text]()
 
 
 ## Entregas ao cliente
@@ -75,4 +77,4 @@ PACER
 - [x] Sprint 0 - 27/09/2020 | [Sprint 0](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint0)
 - [x] Sprint 1 - 17/10/2020 | [Sprint 1](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint1)
 - [x] Sprint 2 - 08/11/2020 | [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
-- [ ] Sprint 3 - 29/11/2020 | 
+- [x] Sprint 3 - 29/11/2020 | [Sprint 3](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint3)

@@ -43,3 +43,6 @@
 
 * AOC
    * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores%20Vol.2.pdf)
+
+* Inglês
+   * Para baixar a Aula 2 em Vídeo, [Clique aqui.]()
