@@ -15,10 +15,10 @@
    * [x] Vídeo
 - [x] 9. Criação de conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
-- [ ]10. Criação do conteúdo - Português
+- [ ] 10.Criação do conteúdo - Português
    * [ ] Texto
    * [ ] Vídeo
-- [x]11. Criação do conteúdo - Inglês
+- [x] 11.Criação do conteúdo - Inglês
    * [x] Vídeo
 
 ## Gestão do Sprint.
