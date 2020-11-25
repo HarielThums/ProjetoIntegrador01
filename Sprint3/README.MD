@@ -11,16 +11,15 @@
 - [x] 5.Página de Contato
 - [x] 6.Politica de Privacidade
 - [x] 7.Criação dos produtos no site
-- [ ] 8.
-- [ ] 9.
-- [ ] 10.
-- [x] . Criação de conteúdo - Matemática Discreta
+- [x] 8. Criação de conteúdo - Matemática Discreta
    * [x] Vídeo
-- [x] . Criação de conteúdo - Arquitetura e Organização de Computadores
+- [x] 9. Criação de conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
-- [ ] . Criação do conteúdo - Português
+- [ ]10. Criação do conteúdo - Português
    * [ ] Texto
    * [ ] Vídeo
+- [x]11. Criação do conteúdo - Inglês
+   * [x] Vídeo
 
 ## Gestão do Sprint.
 
