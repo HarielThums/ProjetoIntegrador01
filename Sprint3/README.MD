@@ -39,9 +39,15 @@
 * Matemática Discreta.
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Matematica%20Discreta%20Vol.2.rar)
    * Para baixar a Aula 3 em Vídeo, [Clique aqui.]()
+   * Para visualizar Aula 1 (Revisada) em PDF, [Clique aqui.]()
+   * Para visualizar Aula 1 (Revisada) em vídeo, [Clique aqui.]()
 
 * AOC
    * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores%20Vol.2.pdf)
 
 * Inglês
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.]()
+   * Quiz Vol.1 e Vol.2, [Clique aqui.](https://docs.google.com/forms/d/e/1FAIpQLSd-szeIz-lH9yHuObgfL_TTKfRp1wEUpoG8XeRL74HrmVx_SQ/viewform?usp=sf_link)
+
+* Laboratório de Hardware
+   * Quiz Vol.1 e Vol.2, [Clique aqui.](https://docs.google.com/forms/d/e/1FAIpQLSexo-ZPuRF4cwC7Oh1IyUd8V7yUjzccWpLCC7cpXw5MnJ5sqA/viewform?usp=sf_link)
