@@ -47,6 +47,7 @@
    * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores%20Vol.2.pdf)
 
 * Inglês
+   * Para visualizar Aula 2 em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Ingl%C3%AAs%20Vol.%202.pdf)
    * Para baixar a Aula 2 em Vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Ingles%20Vol.2.zip)
    * Quiz Vol.1 e Vol.2, [Clique aqui.](https://docs.google.com/forms/d/e/1FAIpQLSd-szeIz-lH9yHuObgfL_TTKfRp1wEUpoG8XeRL74HrmVx_SQ/viewform?usp=sf_link)
 
@@ -56,5 +57,5 @@
 * Português.
    * Para visualizar a Aula 1 (revisada) em PDF, [Clique aqui.]()
    * Para visualizar a Aula 1  em vídeo, [Clique aqui.]()
-   * Para visualizar a Aula 2  em PDF, [Clique aqui.]()
+   * Para visualizar a Aula 2  em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.%202.pdf)
    * Para visualizar a Aula 2  em vídeo, [Clique aqui.]()
