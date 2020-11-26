@@ -48,7 +48,6 @@ PACER
 - [x] 14.Carteira Digital
 - [x] 15.Página de Contato
 - [x] 16.Politica de Privacidade
-- [x] 17.
 
 * Demonstrativo Site referente ao [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
    * [Páginas do administrador - Site](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)
@@ -56,9 +55,9 @@ PACER
 
 # Site entrega Final
 
-* [Site Sprint 3 ]()
+* [Vídeo Site Sprint 3](https://youtu.be/UbHVJYRtVRU)
 
-
+[![Veja aqui.](https://imgur.com/a/HHO4l6t)](https://youtu.be/UbHVJYRtVRU)
 
 ## Gestão de projeto
 
