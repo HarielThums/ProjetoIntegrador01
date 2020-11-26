@@ -57,7 +57,9 @@ PACER
 
 * [Vídeo Site Sprint 3](https://youtu.be/UbHVJYRtVRU)
 
-[![Veja aqui.](https://imgur.com/a/HHO4l6t)](https://youtu.be/UbHVJYRtVRU)
+[![Veja aqui.](https://imgur.com/a/HHO4l6t)]()
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HHO4l6t"  ><a href="//imgur.com/a/HHO4l6t">Logo Elite Academy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Gestão de projeto
 
@@ -77,3 +79,4 @@ PACER
 - [x] Sprint 1 - 17/10/2020 | [Sprint 1](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint1)
 - [x] Sprint 2 - 08/11/2020 | [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
 - [x] Sprint 3 - 29/11/2020 | [Sprint 3](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint3)
+
