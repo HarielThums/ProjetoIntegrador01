@@ -55,11 +55,10 @@ PACER
 
 # Site entrega Final
 
-* [Vídeo Site Sprint 3](https://youtu.be/UbHVJYRtVRU)
+* [Vídeo Site Sprint 3](https://imgur.com/a/HHO4l6t)(https://youtu.be/UbHVJYRtVRU)
 
-[![Veja aqui.](https://imgur.com/a/HHO4l6t)]()
+[![Veja aqui.](https://imgur.com/a/HHO4l6t)](https://youtu.be/UbHVJYRtVRU)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/HHO4l6t"  ><a href="//imgur.com/a/HHO4l6t">Logo Elite Academy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Gestão de projeto
 
