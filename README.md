@@ -55,8 +55,8 @@ PACER
 
 # Site entrega Final
 
-* Apresentação final.
-   * [Vídeo Site Sprint 3](https://youtu.be/UbHVJYRtVRU)
+* **Apresentação final.**
+   * **[Vídeo Site Sprint 3](https://youtu.be/UbHVJYRtVRU)**
 
 [![Veja aqui.](https://i.imgur.com/wgqp3mE.png)](https://youtu.be/UbHVJYRtVRU)
 
