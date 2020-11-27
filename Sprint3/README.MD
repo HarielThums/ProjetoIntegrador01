@@ -2,9 +2,9 @@
 
  * Objetivos do Sprint 3.
 
-- [ ] 1. Burndown E Backlog
-   - [ ] Burndown, [Clique aqui]()
-   - [ ] Backlog, [Clique aqui]()
+- [x] 1. Burndown E Backlog
+   - [x] Burndown, [Clique aqui]()
+   - [x] Backlog, [Clique aqui]()
 - [x] 2. Alimentar o GitHub
 - [x] 3.Carteira Digital
 - [x] 4.Compra de crédito para Carteira Digital
@@ -17,11 +17,15 @@
 - [x] 9. Criação de conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
 - [ ] 10.Criação do conteúdo - Português
-   * [ ] Texto
+   * [x] Texto
    * [ ] Vídeo
 - [x] 11.Criação do conteúdo - Inglês
+   * [x] Texto
    * [x] Vídeo
-
+   * [x] Quiz
+- [x] 12. Criação do conteúdo - Laboratório de Hardware
+   * [x] Quiz
+   
 ## Gestão do Sprint.
 
 * Backlog Sprint_3
