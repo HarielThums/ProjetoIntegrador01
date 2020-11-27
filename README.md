@@ -66,7 +66,7 @@ PACER
 
 Para visualizar PDF do Backlog, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint%20_3.pdf)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.jpg)
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/N%C3%BAmero%20Aluno.png)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Aluno.png)
 
 
 ## Entregas ao cliente
