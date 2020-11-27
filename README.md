@@ -51,7 +51,7 @@ PACER
 
 * Demonstrativo Site referente ao [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
    * [Páginas do administrador - Site](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2/Site/Imagens%20Site)
-   * [Vídeo Demonstrativo - Site (Sprint 2)](https://www.youtube.com/watch?v=G75YrICEaOg&feature=emb_logo&ab_channel=Ditz)
+   * [Vídeo Demonstrativo - Site (Sprint 2)](https://youtu.be/G75YrICEaOg)
 
 
    # **Apresentação final**
