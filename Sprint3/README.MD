@@ -30,7 +30,7 @@
 
 * Backlog Sprint_3
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Alunos.png)
+![alt text]()
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_3.png)
 
 * Burndown Sprint_3
