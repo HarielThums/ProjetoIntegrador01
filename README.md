@@ -65,7 +65,8 @@ PACER
 * **Backlog Final**
 
 Para visualizar PDF do Backlog, [Clique aqui.]()
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.jpg)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final%201.0.png)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final%201.1.png)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Aluno.png)
 
 
