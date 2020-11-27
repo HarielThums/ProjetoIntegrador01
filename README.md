@@ -1,17 +1,17 @@
-# Projeto Integrador, Primeiro semestre.
-- Analise e Desenvolvimento de Sistemas - Fatec, São José dos Campos/SP
+# PROJETO INTEGRADOR. (Primeiro semestre)
+- Análise e Desenvolvimento de Sistemas - Fatec, São José dos Campos/SP
 
 Projeto integrador baseado em RPBL - Real project based learning, metodologia ágil, desenvolvimento de hard skills.
 
 Situção problema: Cliente solicitou que a equipe desenvolvesse um site para produtos educacionais, com os seguintes requisitos:
 
-* Cadastro de usuario
+* Cadastro de usuário
 * Cadastro de conteúdo
 * Carrinho de compras
-* Interface para saldo de credito
+* Interface para saldo de crédito
 * Relatório de vendas
 
-# Competências à serem desenvolvidas no semestre
+# Competências a serem desenvolvidas no semestre
 
 PACER
 
@@ -36,7 +36,7 @@ PACER
 - [x] 2. Site em servidor local
 - [x] 3. Configurações iniciais
 - [x] 4. Home
-- [x] 5. Cadastro Novo usuário
+- [x] 5. Cadastro novo usuário
 - [x] 6. Login
 - [x] 7. Catálogo
 - [x] 8. Carrinho de compras
