@@ -3,8 +3,8 @@
  * **Objetivos do Sprint 3.**
 
 - [x] 1. Burndown E Backlog
-   - [x] Burndown, [Clique aqui]()
-   - [x] Backlog, [Clique aqui]()
+   - [x] Burndown, [Clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_3.png)
+   - [x] Backlog, [Clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.pdf)
 - [x] 2. Alimentar o GitHub
 - [x] 3.Carteira Digital
 - [x] 4.Compra de crédito para Carteira Digital
@@ -16,7 +16,7 @@
    * [x] Vídeo
 - [x] 9. Criação de conteúdo - Arquitetura e Organização de Computadores
    * [x] Texto
-- [ ] 10.Criação do conteúdo - Português
+- [x] 10.Criação do conteúdo - Português
    * [x] Texto
    * [ ] Vídeo
 - [x] 11.Criação do conteúdo - Inglês
