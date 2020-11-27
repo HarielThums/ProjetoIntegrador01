@@ -55,7 +55,7 @@ PACER
 
 
    # **Apresentação final**
-      # **Vídeo Site Sprint 3,** [Clique aqui](https://youtu.be/UbHVJYRtVRU)
+      * **Vídeo Site Sprint 3,** [Clique aqui](https://youtu.be/UbHVJYRtVRU)
 
 [![Veja aqui.](https://i.imgur.com/fvB697e.png)](https://youtu.be/UbHVJYRtVRU)
 
@@ -64,7 +64,7 @@ PACER
 
 * **Backlog Final**
 
-Para visualizar PDF do Backlog, [Clique aqui.]()
+Para visualizar PDF do Backlog, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.pdf)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final%201.0.png)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final%201.1.png)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Aluno.png)
