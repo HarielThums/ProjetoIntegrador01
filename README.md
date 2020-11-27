@@ -62,7 +62,7 @@ PACER
 
 ## Gestão de projeto
 
-* Backlog Final
+* **Backlog Final**
 
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.jpg)
 
