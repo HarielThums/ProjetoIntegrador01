@@ -64,12 +64,9 @@ PACER
 
 * **Backlog Final**
 
+Para visualizar PDF do Backlog, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint%20_3.pdf)
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.jpg)
-
-* Burndown Sprint_3
-
-![alt text]()
-![alt text]()
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Alunos.png)
 
 
 ## Entregas ao cliente
