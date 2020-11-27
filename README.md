@@ -62,9 +62,9 @@ PACER
 
 ## Gestão de projeto
 
-* Backlog Sprint_3
+* Backlog Final
 
-![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Sprint_3.jpg)
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Backlog%20Final.jpg)
 
 * Burndown Sprint_3
 
