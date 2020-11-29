@@ -26,9 +26,9 @@ PACER
 * HARIEL THUMS RIGELLI, [Linkedin, clique aqui](https://www.linkedin.com/in/hariel-thums-953578185)
 * JONATHAN GABRIEL DE ASSIS, [Linkedin, clique aqui]()
 * LAROY BERSOT RIBEIRO DO PRADO, [Linkedin, clique aqui](https://www.linkedin.com/in/laroy-bersot-ribeiro-do-prado-a278b0185/)
-* LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin, clique aqui]()
+* LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin, clique aqui](http://www.linkedin.com/in/felipe-programador)
 * RITA DE CASSIA FERREIRA, [Linkedin, clique aqui]()
-* RODRIGO ARTUR DA SILVA PEREIRA, [Linkedin, clique aqui]()
+* RODRIGO ARTUR DA SILVA PEREIRA, [Linkedin, clique aqui](https://www.linkedin.com/in/rodrigo-artur-pereira-345579108)
 
 ## O que já esta funcionando?
 
