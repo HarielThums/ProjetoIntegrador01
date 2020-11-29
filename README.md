@@ -24,7 +24,7 @@ PACER
 
 * ALINE CRISTINA PEREIRA TROFINO, [Linkedin, clique aqui](https://www.linkedin.com/in/aline-trofino-9704b523/)
 * HARIEL THUMS RIGELLI, [Linkedin, clique aqui](https://www.linkedin.com/in/hariel-thums-953578185)
-* JONATHAN GABRIEL DE ASSIS, [Linkedin, clique aqui]()
+* JONATHAN GABRIEL DE ASSIS, [Linkedin, clique aqui](https://www.linkedin.com/in/jonathan-gabriel-/)
 * LAROY BERSOT RIBEIRO DO PRADO, [Linkedin, clique aqui](https://www.linkedin.com/in/laroy-bersot-ribeiro-do-prado-a278b0185/)
 * LUIZ FELIPE DE ALMEIDA CAMARGO, [Linkedin, clique aqui](http://www.linkedin.com/in/felipe-programador)
 * RITA DE CASSIA FERREIRA, [Linkedin, clique aqui](http://www.linkedin.com/in/rita-ferreira-894ba1200)
