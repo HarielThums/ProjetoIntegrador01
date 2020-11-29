@@ -69,4 +69,4 @@
    * Para visualizar a Aula 1  em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.1%20(Atualizado).pdf)
    * Para visualizar a Aula 1  em vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.%201.rar)
    * Para visualizar a Aula 2  em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.%202.pdf)
-   * Para visualizar a Aula 2  em vídeo, [Clique aqui.]()
+   * Para visualizar a Aula 2  em vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Portugues%20Vol.2.rar)
