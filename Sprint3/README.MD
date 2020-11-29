@@ -45,6 +45,7 @@
 ## Plano de Negócio Final
 
 * Para conferir o plano de negócio final, [Clique aqui](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Plano_de_Negocio_Final.pdf)
+
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/estimativa%20gastos%2C%20receita%20e%20lucro.png)
 
 
