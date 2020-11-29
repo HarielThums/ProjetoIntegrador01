@@ -42,6 +42,12 @@
    ## **Vídeo Site Sprint 3,** [Clique aqui](https://youtu.be/UbHVJYRtVRU)
 
 
+## Plano de Negócio Final
+
+Para conferir o plano de negócio final, [Clique aqui]()
+![alt text]()
+
+
 ## Conteúdos
 
 * Matemática Discreta.
