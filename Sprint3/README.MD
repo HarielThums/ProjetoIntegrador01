@@ -66,7 +66,7 @@
    * Quiz Vol.1 e Vol.2, [Clique aqui.](https://docs.google.com/forms/d/e/1FAIpQLSexo-ZPuRF4cwC7Oh1IyUd8V7yUjzccWpLCC7cpXw5MnJ5sqA/viewform?usp=sf_link)
 
 * Português.
-   * Para visualizar a Aula 1  em PDF, [Clique aqui.]()
-   * Para visualizar a Aula 1  em vídeo, [Clique aqui.]()
+   * Para visualizar a Aula 1  em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.1%20(Atualizado).pdf)
+   * Para visualizar a Aula 1  em vídeo, [Clique aqui.](https://raw.githubusercontent.com/HarielThums/ProjetoIntegrador01/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.%201.rar)
    * Para visualizar a Aula 2  em PDF, [Clique aqui.](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Sprint3/Conteudos/Portugu%C3%AAs%20Vol.%202.pdf)
    * Para visualizar a Aula 2  em vídeo, [Clique aqui.]()
