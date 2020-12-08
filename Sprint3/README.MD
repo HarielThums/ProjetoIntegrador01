@@ -37,6 +37,7 @@
 
 ![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown%20Sprint_3.png)
 
+![alt text](https://github.com/HarielThums/ProjetoIntegrador01/blob/main/Burndown%20e%20Backlog/Burndown_Sprint_3.2.png)
 
    # **Apresentação final**
    ## **Vídeo Site Sprint 3,** [Clique aqui](https://youtu.be/UbHVJYRtVRU)
